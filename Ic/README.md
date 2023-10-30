@@ -5,10 +5,6 @@
 - [✨ Features of the Driver](#-features-of-the-driver)
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
   - [Driver Functions](#driver-functions)
-    - [`IC_EnableInterrupts()`](#ic_enableinterrupts)
-    - [`IC_DisableInterrupts()`](#ic_disableinterrupts)
-    - [`IC_SetInterruptState()`](#ic_setinterruptstate)
-    - [`IC_GetInterruptState()`](#ic_getinterruptstate)
 - [🚀 Future Development](#-future-development)
 
 # 📘 Introduction to Interrupt Controller on PIC32MX Microcontroller
