@@ -15,7 +15,6 @@
 	- [Test 1: Master Mode Polling Operation](#test-1-master-mode-polling-operation)
 	- [Test 2: Master-Slave Interrupt Operation](#test-2-master-slave-interrupt-operation)
 - [🚀 Future Development](#-future-development)
-- [](#)
 
 # 📘 Introduction to Serial Peripheral Protocol on PIC32MX Microcontroller
 
