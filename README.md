@@ -12,6 +12,7 @@ All the modules, whose library was developed so far, are covered in the followin
 - [Timers](Tmr)
 - [Oscillator](Osc)
 - [Interrupt Controller](Ic)
+- [Configuration Registers](Cfg)
 
 # :bookmark_tabs: Table of Contents
 
@@ -56,11 +57,11 @@ Looking ahead of the PIC32MX peripheral libraries development the remaining peri
 
 # 📞 Getting in Touch and Contributions
 
-If you encounter any bugs or have suggestions, please [raise an issue](https://github.com/MucaGinger/PIC32MX-Peripheral-Libs/issues). Alternatively, feel free to contact me directly via [email](lgacnik97@gmail.com) if you're interested in contributing or taking this project to the next level.
+If you encounter any bugs or have suggestions, please [raise an issue](https://github.com/MucaGinger/PIC32MX-Peripheral-Libs/issues). Alternatively, feel free to contact me directly via <a href="mailto:lgacnik97@gmail.com">email</a> if you're interested in contributing or taking this project to the next level.
 
 # ©️ License and Usage Terms
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 #
 
