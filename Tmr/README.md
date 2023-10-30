@@ -7,20 +7,7 @@
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
   - [Macro Definitions](#macro-definitions)
   - [Data Types and Structures](#data-types-and-structures)
-    - [`TmrTimeoutConfig_t`](#tmrtimeoutconfig_t)
-    - [`TmrGatedConfig_t`](#tmrgatedconfig_t)
   - [Driver Functions](#driver-functions)
-    - [`TMR_ConfigTimeoutModeSfr()`](#tmr_configtimeoutmodesfr)
-    - [`TMR_ConfigGatedModeSfr()`](#tmr_configgatedmodesfr)
-    - [`TMR_SetCallback()`](#tmr_setcallback)
-    - [`TMR_SetCoreTimerCallback()`](#tmr_setcoretimercallback)
-    - [`TMR_SetTimeoutPeriod()`](#tmr_settimeoutperiod)
-    - [`TMR_StartTimer()`](#tmr_starttimer)
-    - [`TMR_StopTimer()`](#tmr_stoptimer)
-    - [`TMR_DelayUs()`](#tmr_delayus)
-    - [`TMR_DelayMs()`](#tmr_delayms)
-    - [`TMR_ReadTimer()`](#tmr_readtimer)
-    - [`TMR_ReadTimerPeriod()`](#tmr_readtimerperiod)
 - [🖥️ Hands-on Examples](#️-hands-on-examples)
   - [Example: Timeout Mode Operation](#example-timeout-mode-operation)
 - [](#)
@@ -30,6 +17,8 @@
 The PIC32 device family has two different types of timers, depending on the particular device. Timers are useful for generating accurate time-based periodic interrupt events for software applications or real-time operating systems. Other uses include counting external pulses or accurate timing measurement of external events by using the timer’s gate feature. With certain exceptions, all of the timers have the same functional circuitry. The timers are broadly classified into two types, namely:
 - Type A Timer (16-bit synchronous/asynchronous timer/counter with gate)
 - Type B Timer (16-bit or 32-bit synchronous timer/counter with gate and Special Event Trigger)
+
+<div align="center">
 
 <a id="fig1"></a>
 ![fig1](./img/tmr_block.png)
