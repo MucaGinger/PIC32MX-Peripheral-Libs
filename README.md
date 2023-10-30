@@ -61,7 +61,7 @@ If you encounter any bugs or have suggestions, please [raise an issue](https://g
 
 # ©️ License and Usage Terms
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MucaGinger/PIC32MX-Peripheral-Libs/tree/main/LICENSE) file for details.
 
 #
 
