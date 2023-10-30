@@ -14,6 +14,8 @@ All the modules, whose library was developed so far, are covered in the followin
 - [Interrupt Controller](Ic)
 - [Configuration Registers](Cfg)
 
+Check the links above for extensive explanation of each module's driver.
+
 # :bookmark_tabs: Table of Contents
 
 - [📘 Introduction to PIC32MX-Peripheral-Libs](#-introduction-to-pic32mx-peripheral-libs)
