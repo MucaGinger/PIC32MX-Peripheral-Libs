@@ -1,13 +1,13 @@
 # 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
-- [📘 Introduction to Oscillator on PIC32MX Microcontroller](#-introduction-to-oscillator-on-pic32mx-microcontroller)
-- [✨ Features of the Driver](#-features-of-the-driver)
-- [📖 API Documentation and Usage](#-api-documentation-and-usage)
+- [Table of Contents](#-table-of-contents)
+- [Introduction to Oscillator on PIC32MX Microcontroller](#-introduction-to-oscillator-on-pic32mx-microcontroller)
+- [Features of the Driver](#-features-of-the-driver)
+- [API Documentation and Usage](#-api-documentation-and-usage)
   - [Macro Definitions](#macro-definitions)
   - [Data Types and Structures](#data-types-and-structures)
   - [Driver Functions](#driver-functions)
-- [🖥️ Hands-on Examples](#️-hands-on-examples)
+- [Hands-on Examples](#️-hands-on-examples)
 - [Example: Oscillator Clock Switch](#example-oscillator-clock-switch)
 
 # 📘 Introduction to Oscillator on PIC32MX Microcontroller
