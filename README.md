@@ -18,15 +18,15 @@ Check the links above for an extensive explanation of each module's driver.
 
 # :bookmark_tabs: Table of Contents
 
-- [📘 Introduction to PIC32MX-Peripheral-Libs](#-introduction-to-pic32mx-peripheral-libs)
-- [:bookmark\_tabs: Table of Contents](#bookmark_tabs-table-of-contents)
-- [🛠️ Setting Up Your Environment](#️-setting-up-your-environment)
+- [Introduction to PIC32MX-Peripheral-Libs](#-introduction-to-pic32mx-peripheral-libs)
+- [Table of Contents](#bookmark_tabs-table-of-contents)
+- [Setting Up Your Environment](#️-setting-up-your-environment)
   - [Software and Build Process](#software-and-build-process)
   - [Emulating the Microcontroller](#emulating-the-microcontroller)
-- [📚 General Dependencies](#-general-dependencies)
-- [🚀 Future Development](#-future-development)
-- [📞 Getting in Touch and Contributions](#-getting-in-touch-and-contributions)
-- [©️ License and Usage Terms](#️-license-and-usage-terms)
+- [General Dependencies](#-general-dependencies)
+- [Future Development](#-future-development)
+- [Getting in Touch and Contributions](#-getting-in-touch-and-contributions)
+- [License and Usage Terms](#️-license-and-usage-terms)
 
 # 🛠️ Setting Up Your Environment
 
