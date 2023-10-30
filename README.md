@@ -14,7 +14,7 @@ All the modules, whose library was developed so far, are covered in the followin
 - [Interrupt Controller](Ic)
 - [Configuration Registers](Cfg)
 
-Check the links above for extensive explanation of each module's driver.
+Check the links above for an extensive explanation of each module's driver.
 
 # :bookmark_tabs: Table of Contents
 
