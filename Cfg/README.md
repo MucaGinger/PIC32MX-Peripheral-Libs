@@ -1,9 +1,9 @@
 # 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
-- [📘 Introduction to Configuration Registers on PIC32MX Microcontroller](#-introduction-to-configuration-registers-on-pic32mx-microcontroller)
-- [✨ Features of the Driver](#-features-of-the-driver)
-- [📖 API Documentation and Usage](#-api-documentation-and-usage)
+- [Table of Contents](#-table-of-contents)
+- [Introduction to Configuration Registers on PIC32MX Microcontroller](#-introduction-to-configuration-registers-on-pic32mx-microcontroller)
+- [Features of the Driver](#-features-of-the-driver)
+- [API Documentation and Usage](#-api-documentation-and-usage)
   - [Driver Functions](#driver-functions)
 
 # 📘 Introduction to Configuration Registers on PIC32MX Microcontroller
