@@ -1,14 +1,14 @@
 # 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
-- [📘 Introduction to Timers on PIC32MX Microcontroller](#-introduction-to-timers-on-pic32mx-microcontroller)
-- [📚 Dependencies](#-dependencies)
-- [✨ Features of the Driver](#-features-of-the-driver)
-- [📖 API Documentation and Usage](#-api-documentation-and-usage)
+- [Table of Contents](#-table-of-contents)
+- [Introduction to Timers on PIC32MX Microcontroller](#-introduction-to-timers-on-pic32mx-microcontroller)
+- [Dependencies](#-dependencies)
+- [Features of the Driver](#-features-of-the-driver)
+- [API Documentation and Usage](#-api-documentation-and-usage)
   - [Macro Definitions](#macro-definitions)
   - [Data Types and Structures](#data-types-and-structures)
   - [Driver Functions](#driver-functions)
-- [🖥️ Hands-on Examples](#️-hands-on-examples)
+- [Hands-on Examples](#️-hands-on-examples)
   - [Example: Timeout Mode Operation](#example-timeout-mode-operation)
 
 # 📘 Introduction to Timers on PIC32MX Microcontroller
