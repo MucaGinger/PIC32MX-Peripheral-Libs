@@ -10,7 +10,6 @@
     - [`IC_SetInterruptState()`](#ic_setinterruptstate)
     - [`IC_GetInterruptState()`](#ic_getinterruptstate)
 - [🚀 Future Development](#-future-development)
-- [](#)
 
 # 📘 Introduction to Interrupt Controller on PIC32MX Microcontroller
 
