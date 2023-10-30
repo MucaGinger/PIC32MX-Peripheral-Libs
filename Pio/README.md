@@ -7,29 +7,9 @@
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
   - [Macro Definitions](#macro-definitions)
   - [Data Types and Structures](#data-types-and-structures)
-    - [`PinInfo_t`](#pininfo_t)
   - [Driver Functions](#driver-functions)
-    - [`PIO_ConfigPpsSfr()`](#pio_configppssfr)
-    - [`PIO_ReleasePpsSfr()`](#pio_releaseppssfr)
-    - [`PIO_ConfigInputChange()`](#pio_configinputchange)
-    - [`PIO_SetIsrHandler()`](#pio_setisrhandler)
-    - [`PIO_ConfigPpsPin()`](#pio_configppspin)
-    - [`PIO_ConfigGpioPin()`](#pio_configgpiopin)
-    - [`PIO_ConfigGpioPinDir()`](#pio_configgpiopindir)
-    - [`PIO_ConfigGpioPinType()`](#pio_configgpiopintype)
-    - [`PIO_ConfigGpioPinPull()`](#pio_configgpiopinpull)
-    - [`PIO_ConfigPinDriver()`](#pio_configpindriver)
-    - [`PIO_ReadPinCode()`](#pio_readpincode)
-    - [`PIO_ReadPinModule()`](#pio_readpinmodule)
-    - [`PIO_ReadPinDirection()`](#pio_readpindirection)
-    - [`PIO_ReadPinPosition()`](#pio_readpinposition)
-    - [`PIO_ClearPin()`](#pio_clearpin)
-    - [`PIO_SetPin()`](#pio_setpin)
-    - [`PIO_TogglePin()`](#pio_togglepin)
-    - [`PIO_ReadPin()`](#pio_readpin)
 - [🖥️ Hands-on Examples](#️-hands-on-examples)
   - [Example: Input Change](#example-input-change)
-- [](#)
 
 # 📘 Introduction to Programmable Inputs Outputs on PIC32MX Microcontroller
 
@@ -238,7 +218,7 @@ int main(int argc, char** argv)
 	while (1)
 	{
 		/* 'TestFunct()' is executed from ISR each time a change
-        in input at pin RPA2 is detected */
+                   in input at pin RPA2 is detected */
 	}
 
 	return 0;
