@@ -1,11 +1,11 @@
 # 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
-- [📘 Introduction to Interrupt Controller on PIC32MX Microcontroller](#-introduction-to-interrupt-controller-on-pic32mx-microcontroller)
-- [✨ Features of the Driver](#-features-of-the-driver)
-- [📖 API Documentation and Usage](#-api-documentation-and-usage)
+- [Table of Contents](#-table-of-contents)
+- [Introduction to Interrupt Controller on PIC32MX Microcontroller](#-introduction-to-interrupt-controller-on-pic32mx-microcontroller)
+- [Features of the Driver](#-features-of-the-driver)
+- [API Documentation and Usage](#-api-documentation-and-usage)
   - [Driver Functions](#driver-functions)
-- [🚀 Future Development](#-future-development)
+- [Future Development](#-future-development)
 
 # 📘 Introduction to Interrupt Controller on PIC32MX Microcontroller
 
