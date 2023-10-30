@@ -25,7 +25,6 @@ All the modules, whose library was developed so far, are covered in the followin
 - [🚀 Future Development](#-future-development)
 - [📞 Getting in Touch and Contributions](#-getting-in-touch-and-contributions)
 - [©️ License and Usage Terms](#️-license-and-usage-terms)
-- [](#)
 
 # 🛠️ Setting Up Your Environment
 
@@ -33,7 +32,7 @@ The development, testing, and API validation of the individual driver utilized t
 
 ## Software and Build Process
 
-The project development utilized MPLAB X (v6.05), paired with Microchip's XC32 (v4.21) toolchain for building the project. For detailed information on required libraries for using individual driver, please refer to the [Library Dependencies](#-dependencies-and-prerequisites) section.
+The project development utilized MPLAB X (v6.05), paired with Microchip's XC32 (v4.21) toolchain for building the project. For detailed information on required libraries for using individual driver, please refer to the [Library Dependencies](#-general-dependencies) section.
 
 ## Emulating the Microcontroller
 
@@ -44,7 +43,6 @@ Microchip's PicKit4 served as the emulator and debugger for this project, offeri
 Each module requires one or more of the following dependencies:
 - Standard Libraries
 - XC32 compiler libraries: `xc.h`, `cp0defs.h`, and `attribs.h`
-- Register access header files (denoted as `xxx_sfr.h`)
 
 Compiler libraries are mainly used for interrupt handler semantics, interrupt control, and accessing coprocessor registers *CP0* for some specialized tasks.
 
