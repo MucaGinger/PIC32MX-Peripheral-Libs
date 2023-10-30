@@ -7,23 +7,7 @@
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
 	- [Macro Definitions](#macro-definitions)
 	- [Data Types and Structures](#data-types-and-structures)
-		- [`SpiStandardConfig_t`](#spistandardconfig_t)
-		- [`SpiPin_t`](#spipin_t)
-		- [`SpiSsState_t`](#spissstate_t)
 	- [Driver Functions](#driver-functions)
-		- [`SPI_ConfigStandardModeSfr()`](#spi_configstandardmodesfr)
-		- [`SPI_EnableSsState()`](#spi_enablessstate)
-		- [`SPI_DisableSsState()`](#spi_disablessstate)
-		- [`SPI_GetSsState()`](#spi_getssstate)
-		- [`SPI_SetSsState()`](#spi_setssstate)
-		- [`SPI_IsSpiBusy()`](#spi_isspibusy)
-		- [`SPI_IsRxDone()`](#spi_isrxdone)
-		- [`SPI_MasterReadWrite()`](#spi_masterreadwrite)
-		- [`SPI_MasterWrite()`](#spi_masterwrite)
-		- [`SPI_MasterWrite2()`](#spi_masterwrite2)
-		- [`SPI_DummyRead()`](#spi_dummyread)
-		- [`SPI_SlaveWrite()`](#spi_slavewrite)
-		- [`SPI_SlaveRead()`](#spi_slaveread)
 - [🖥️ Hands-on Examples](#️-hands-on-examples)
 	- [Example 1: Multi-packet 8-bit Master transmission](#example-1-multi-packet-8-bit-master-transmission)
 	- [Example 2: Multi-packet 32-bit Slave reception](#example-2-multi-packet-32-bit-slave-reception)
@@ -52,6 +36,8 @@ The SPIx serial interface consists of four pins:
 - `SDOx`: Serial Data Output
 - `SCKx`: Shift Clock Input or Output
 - `SSx`: Active-Low Slave Select or Frame Synchronization I/O Pulse
+
+<div align="center">
 
 <a id="fig2"></a>
 ![fig2](./img/spi_connect.png)
