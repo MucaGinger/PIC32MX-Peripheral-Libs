@@ -6,12 +6,7 @@
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
   - [Macro Definitions](#macro-definitions)
   - [Data Types and Structures](#data-types-and-structures)
-    - [`OscConfig_t`](#oscconfig_t)
   - [Driver Functions](#driver-functions)
-    - [`OSC_ConfigOsc()`](#osc_configosc)
-    - [`OSC_GetSysFreq()`](#osc_getsysfreq)
-    - [`OSC_GetPbFreq()`](#osc_getpbfreq)
-    - [`OSC_GetClkSource()`](#osc_getclksource)
 - [🖥️ Hands-on Examples](#️-hands-on-examples)
 - [Example: Oscillator Clock Switch](#example-oscillator-clock-switch)
 
@@ -174,5 +169,7 @@ Transition from one clock source to another can be seen in the measurement below
 **Figure 3**: Clock Switch Transition Part 2.<br>
 
 </div>
+
+#
 
 &copy; Luka Gacnik, 2023
