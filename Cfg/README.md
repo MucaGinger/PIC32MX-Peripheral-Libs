@@ -5,11 +5,6 @@
 - [✨ Features of the Driver](#-features-of-the-driver)
 - [📖 API Documentation and Usage](#-api-documentation-and-usage)
   - [Driver Functions](#driver-functions)
-    - [`CFG_UnlockSystemAccess()`](#cfg_unlocksystemaccess)
-    - [`CFG_LockSystemAccess()`](#cfg_locksystemaccess)
-    - [`CFG_UnlockPpsAccess()`](#cfg_unlockppsaccess)
-    - [`CFG_LockPpsAccess()`](#cfg_lockppsaccess)
-- [](#)
 
 # 📘 Introduction to Configuration Registers on PIC32MX Microcontroller
 
