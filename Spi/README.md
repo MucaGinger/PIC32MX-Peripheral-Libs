@@ -1,20 +1,20 @@
 # 📑 Table of Contents
 
-- [📑 Table of Contents](#-table-of-contents)
-- [📘 Introduction to Serial Peripheral Protocol on PIC32MX Microcontroller](#-introduction-to-serial-peripheral-protocol-on-pic32mx-microcontroller)
-- [📚 Dependencies](#-dependencies)
-- [✨ Features of the Driver](#-features-of-the-driver)
-- [📖 API Documentation and Usage](#-api-documentation-and-usage)
+- [Table of Contents](#-table-of-contents)
+- [Introduction to Serial Peripheral Protocol on PIC32MX Microcontroller](#-introduction-to-serial-peripheral-protocol-on-pic32mx-microcontroller)
+- [Dependencies](#-dependencies)
+- [Features of the Driver](#-features-of-the-driver)
+- [API Documentation and Usage](#-api-documentation-and-usage)
 	- [Macro Definitions](#macro-definitions)
 	- [Data Types and Structures](#data-types-and-structures)
 	- [Driver Functions](#driver-functions)
-- [🖥️ Hands-on Examples](#️-hands-on-examples)
+- [Hands-on Examples](#️-hands-on-examples)
 	- [Example 1: Multi-packet 8-bit Master transmission](#example-1-multi-packet-8-bit-master-transmission)
 	- [Example 2: Multi-packet 32-bit Slave reception](#example-2-multi-packet-32-bit-slave-reception)
-- [⏱️ Measurements and Performance](#️-measurements-and-performance)
+- [Measurements and Performance](#️-measurements-and-performance)
 	- [Test 1: Master Mode Polling Operation](#test-1-master-mode-polling-operation)
 	- [Test 2: Master-Slave Interrupt Operation](#test-2-master-slave-interrupt-operation)
-- [🚀 Future Development](#-future-development)
+- [Future Development](#-future-development)
 
 # 📘 Introduction to Serial Peripheral Protocol on PIC32MX Microcontroller
 
