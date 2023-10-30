@@ -42,7 +42,7 @@ The Serial Peripheral Interface (SPI) module is a synchronous serial interface u
 <a id="fig1"></a>
 ![fig1](./img/spi_block.png)
 
-**Figure 1**: PIC32 General SPI Block iagram.<br>
+**Figure 1**: PIC32 General SPI Block Diagram.<br>
 <small>Source: Microchip PIC32 Documentation</small>
 
 </div>
@@ -98,7 +98,7 @@ The API employs preprocessor macros to facilitate a certain level of configurati
 
 ## Data Types and Structures
 
-Note that only `struct` types are outlined here. Other. `enum` types are assumed to be self-explanatory to the reader.
+Note that only `struct` types are outlined here. Other, `enum` types are assumed to be self-explanatory to the reader.
 
 ### `SpiStandardConfig_t`
 

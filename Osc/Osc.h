@@ -21,7 +21,6 @@
 #define OSC_XTAL_FREQ   8000000
 #endif
 
-
 /** Device specific constants (change only if other than PIC32MX device) **/
 #define OSC_FRC_FREQ    8000000
 #define OSC_LPRC_FREQ   31250
@@ -94,7 +93,6 @@ typedef struct {
     uint32_t        sysFreq;
     uint32_t        pbFreq;
 } OscConfig_t;
-
 
 /******************************************************************************/
 /*---------------------------- Function Prototypes----------------------------*/

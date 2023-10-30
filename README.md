@@ -21,6 +21,7 @@ All the modules, whose library was developed so far, are covered in the followin
   - [Software and Build Process](#software-and-build-process)
   - [Emulating the Microcontroller](#emulating-the-microcontroller)
 - [📚 General Dependencies](#-general-dependencies)
+- [🚀 Future Development](#-future-development)
 - [📞 Getting in Touch and Contributions](#-getting-in-touch-and-contributions)
 - [©️ License and Usage Terms](#️-license-and-usage-terms)
 - [](#)
@@ -48,6 +49,10 @@ Compiler libraries are mainly used for interrupt handler semantics, interrupt co
 
 > [!NOTE]\
 > It should be mentioned that the necessary startup file <code>.s</code>, linker file <code>.ld</code> (or <code>.sct</code> for ARM compilers), and MCU configuration bits (aka. fuses) are not provided in this project as these are toolchain and platform specifics and should be handled by the user.
+
+# 🚀 Future Development
+
+Looking ahead of the PIC32MX peripheral libraries development the remaining peripheral module driver's libraries would need to be implemented, tested, and their documentation provided.
 
 # 📞 Getting in Touch and Contributions
 
