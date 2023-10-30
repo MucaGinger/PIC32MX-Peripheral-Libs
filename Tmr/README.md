@@ -10,7 +10,6 @@
   - [Driver Functions](#driver-functions)
 - [🖥️ Hands-on Examples](#️-hands-on-examples)
   - [Example: Timeout Mode Operation](#example-timeout-mode-operation)
-- [](#)
 
 # 📘 Introduction to Timers on PIC32MX Microcontroller
 
