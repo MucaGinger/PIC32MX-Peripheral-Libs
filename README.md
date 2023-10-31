@@ -4,7 +4,7 @@
 
 This project offers a low-level API that provides control over some of PIC32MX microcontroller peripheral modules. Despite the fact that library was developed using PIC32MX family, it could be ported to any other of PIC32 family of MCUs.
 
-Primary intention of developing my own set of libraries was to optimize low-level driver performance by excluding overhead provided by generic vendor libraries for PIC32 MCUs. Additionally, as I was developing these libraries I was working on drivers for some other, external devices whose repositories you can find on my [main page](https://github.com/MucaGinger).
+Primary intention of developing my own set of libraries was to optimize low-level driver performance by excluding overhead provided by generic vendor libraries for PIC32 MCUs. Additionally, as I was developing these libraries I was working on drivers for some other, external devices whose repositories you can find on my [main page](https://github.com/lgacnik).
 
 All the modules, whose library was developed so far, are covered in the following sub-folders:
 - [Serial Peripheral Interface](Spi)
@@ -57,7 +57,7 @@ Looking ahead of the PIC32MX peripheral libraries development the remaining peri
 
 # 📞 Getting in Touch and Contributions
 
-If you encounter any bugs or have suggestions, please [raise an issue](https://github.com/MucaGinger/PIC32MX-Peripheral-Libs/issues). Alternatively, feel free to contact me directly via <a href="mailto:lgacnik97@gmail.com">email</a> if you're interested in contributing or taking this project to the next level.
+If you encounter any bugs or have suggestions, please [raise an issue](https://github.com/lgacnik/PIC32MX-Peripheral-Libs/issues). Alternatively, feel free to contact me directly via <a href="mailto:lgacnik97@gmail.com">email</a> if you're interested in contributing or taking this project to the next level.
 
 # ©️ License and Usage Terms
 
