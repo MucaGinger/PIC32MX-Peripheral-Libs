@@ -34,7 +34,7 @@ The development, testing, and API validation of the individual driver utilized t
 
 ## Software and Build Process
 
-The project development utilized MPLAB X (v6.05), paired with Microchip's XC32 (v4.21) toolchain for building the project. For detailed information on required libraries for using individual driver, please refer to the [General Depensencies](#-general-dependencies) section.
+The project development utilized MPLAB X (v6.05), paired with Microchip's XC32 (v4.21) toolchain for building the project. For detailed information on required libraries for using individual driver, please refer to the [General Dependencies](#-general-dependencies) section.
 
 ## Emulating the Microcontroller
 
